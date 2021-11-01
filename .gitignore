@@ -5,4 +5,10 @@ dl_cheat_sheet.pdf
 dlenvironment.yml
 submission.zip
 troubleshooting_cip.pdf
-
+src_to_implement/__pycache__
+.idea/
+src_to_implement/data
+src_to_implement/exercise_data
+src_to_implement/reference_arrays
+src_to_implement/Labels.json
+src_to_implement/NumpyTests.py
