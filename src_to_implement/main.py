@@ -7,7 +7,6 @@ if __name__ == '__main__':
     A = pattern.Checker(180, 30)
     b = A.draw()
     A.show()
-
 #-------------------------------
     B=pattern.Circle(1000,100,(600,500))
     B.draw()
