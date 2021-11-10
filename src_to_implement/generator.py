@@ -89,7 +89,7 @@ class ImageGenerator:
 
         fig = plt.figure()
         counter = 1
-        size = np.shape(images[0])[0]
+        #size = np.shape(images[0])[0]
         for i in images[0]:
             a = fig.add_subplot(2, 3, counter, )
             a.set_xlabel(self.class_name(images[1][counter - 1]))
